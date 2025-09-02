@@ -27,6 +27,6 @@
 
 ## 📊 GitHub Stats
 
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leobas20&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="leobas20" /></p>
+<img alt="top langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobas20&layout=compact&theme=github_dark"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leobas20&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="leobas20" /></p>
+<img alt="leobas20 stats" align="left" src="https://github-readme-stats.vercel.app/api?username=leobas20&show_icons=true&theme=github_dark"/>
